@@ -1,8 +1,6 @@
 package util;
 
 import java.io.*;
-import java.util.concurrent.locks.ReentrantLock;
-import java.util.function.Function;
 
 public class IdGeneratorFileBased implements IdGenerator {
     private final ReentrantLock lock = new ReentrantLock();

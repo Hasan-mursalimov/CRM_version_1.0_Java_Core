@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f51f02b8-ff83-45fa-9abe-132add698562" name="Changes" comment="Первая версия моей CRM системы. Основана на Java Core использованием базы данных на файловой системе">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRM_version_1.0_Java_Core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dto/ClientDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dto/ClientDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/IdGeneratorFileBased.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/IdGeneratorFileBased.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tr4Uf0CmZT3aeF2YUlZkpRfkyL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hasan/IdeaProjects/CRM_version_1.0_Java_Core/CRM_version_1.0_Java_Core&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hasan\IdeaProjects\CRM_version_1.0_Java_Core\CRM_version_1.0_Java_Core" />
+      <recent name="C:\Users\Hasan\IdeaProjects\CRM_version_1.0_Java_Core\CRM_version_1.0_Java_Core\src\util" />
+      <recent name="C:\Users\Hasan\IdeaProjects\CRM_version_1.0_Java_Core\CRM_version_1.0_Java_Core\src\template" />
+      <recent name="C:\Users\Hasan\IdeaProjects\CRM_version_1.0_Java_Core\CRM_version_1.0_Java_Core\src\services" />
+      <recent name="C:\Users\Hasan\IdeaProjects\CRM_version_1.0_Java_Core\CRM_version_1.0_Java_Core\src\repositories" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-temurin-21.0.2-4caba194b151-7da56cdf" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f51f02b8-ff83-45fa-9abe-132add698562" name="Changes" comment="" />
+      <created>1741096878011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741096878011</updated>
+      <workItem from="1741096879158" duration="2311000" />
+      <workItem from="1741180408178" duration="3113000" />
+    </task>
+    <task id="LOCAL-00001" summary="Первая версия моей CRM системы. Основана на Java Core использованием базы данных на файловой системе">
+      <option name="closed" value="true" />
+      <created>1741097912209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741097912209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первая версия моей CRM системы. Основана на Java Core использованием базы данных на файловой системе" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первая версия моей CRM системы. Основана на Java Core использованием базы данных на файловой системе" />
+  </component>
+</project>
